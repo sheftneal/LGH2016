@@ -104,7 +104,7 @@ source("scripts/0_preprocess.R")
 	data <- data %>% rename(est5m0_1990 = val1990)
 	data <- data %>% rename(est5m0_2000 = val2000)
 	#write out the point data
-	write_rds(data, file = "data/outputs/final_data/ChildMortEstimates5m0_gridded.rds", compress = "gz")
+	write_rds(data, file = "data/outputs/final_data/ChildMortEstimates5m0_points.rds", compress = "gz")
 	
 	
 	##################################################################################################################################
