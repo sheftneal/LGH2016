@@ -5,13 +5,17 @@ Data and selected code from 2016 LGH paper [`Sources of variation in under-5 mor
 
 
 ### Data Download
-Data file with latitude, longitude, child mortality estimates for 1980s, 1990s, and 2000s, and associated uncertainty estimates. See [README](https://github.com/sheftneal/LGH2016/blob/master/data/outputs/final_data/DATA-README.txt) for further documentation.
+See [README](https://github.com/sheftneal/LGH2016/blob/master/data/outputs/final_data/DATA-README.txt) for further documentation.
 
-[Download point data](https://github.com/sheftneal/LGH2016/tree/master/data/outputs/final_data/ChildMortEstimates5m0_points.rds).
+**Points Data**: Data frame stored as RDS file with latitude, longitude, child mortality estimates for 1980s, 1990s, and 2000s, and associated uncertainty estimates. 
+
+[Download points data](https://github.com/sheftneal/LGH2016/tree/master/data/outputs/final_data/ChildMortEstimates5m0_points.rds).
+
+**Gridded Data**: Gridded data stored as tif with one layer each for child mortality estimates for 1980s, 1990s, and 2000s, respectively.
 
 [Download gridded data](https://github.com/sheftneal/LGH2016/tree/master/data/outputs/final_data/ChildMortEstimates5m0_gridded.tif). 
 
-Note the gridded version does not include uncertainty estimates as of now but the point version does.
+Note the gridded version does not include uncertainty estimates as of now but the points version does.
 
 
 
