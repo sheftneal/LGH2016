@@ -15,7 +15,7 @@ See [README](https://github.com/sheftneal/LGH2016/blob/master/data/outputs/final
 
 [Download gridded data](https://github.com/sheftneal/LGH2016/tree/master/data/outputs/final_data/ChildMortEstimates5m0_gridded.tif). 
 
-Note the gridded version does not include uncertainty estimates as of now but the points version does.
+Note while the points data includes uncertainty estimates the gridded data does not.
 
 
 
