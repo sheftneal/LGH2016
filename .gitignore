@@ -3,4 +3,4 @@
 .RData
 .Ruserdata
 script/prepData.R
-data/outputs/ChildMortality_5m0/ChildMortality_KDE_5m0_CVBootstrap_allYears.RDdata
+data/outputs/ChildMortality_5m0/ChildMortality_KDE_5mo_CVBootstrap_allYears.RDdata
